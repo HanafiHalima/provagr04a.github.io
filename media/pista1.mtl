@@ -14,4 +14,4 @@ newmtl Material__44
 	Ni 1.5200
 	Ke 0.0000 0.0000 0.0000
 	illum 2
-	map_Kd E:\DENTRO AL MUSEO 4.1\marker arj\QR CODE\pista.jpeg
+	map_Kd pista.jpeg
